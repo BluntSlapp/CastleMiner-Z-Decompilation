@@ -14,11 +14,11 @@ Step 1. Extract the original game files to an empty folder, this will be where w
 
 Step 2. Copy the 'Content' Folder from the original game to the root of this repo. These are all the game assets.
 
-Step 3. Open the DNA.Common Solution in Visual Studio 2010. Select 'build'
+Step 3. Open the DNA.Common Project in Visual Studio 2010. Select 'build'
 
 Step 4. If all goes well, you should see a file called 'DNA.Common.dll' in the 'bin/debug' folder. copy this to the root of the repo.
 
-Step 5. Open the CastleMiner Z Solution in Visual Studio.
+Step 5. Open the CastleMiner Z Project in Visual Studio.
 
 Step 6. Right click on the project in the solution explorer and click 'Add', 'Reference' and select browse. Select the dll we just created.
 
