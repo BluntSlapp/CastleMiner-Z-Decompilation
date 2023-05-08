@@ -4,10 +4,10 @@ A quick and nasty decompilation of CastleMinerZ created using the dark powers of
 
 ## Building
 You will need:
-Visual Studio 2010 Professional
-The Microsoft Xbox 360 XDK (Its out there.)
-The Microsoft XNA Framework version 3.1
-An original copy of CastleMiner Z that you legally purchased
+Visual Studio 2010 Professional,
+The Microsoft Xbox 360 XDK (Its out there.),
+The Microsoft XNA Framework version 3.1,
+An original copy of CastleMiner Z that you legally purchased,
 Horizion by Daring Development, or another tool to extract the xbox game files.
 
 Step 1. Extract the original game files to an empty folder, this will be where we'll keep a fresh copy.
